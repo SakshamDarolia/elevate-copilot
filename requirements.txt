@@ -1,0 +1,10 @@
+groq
+langchain
+langchain-groq
+chromadb
+langchain-community
+pypdf
+sentence-transformers
+fastapi
+uvicorn[standard]
+python-multipart
